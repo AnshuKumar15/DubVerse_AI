@@ -1,0 +1,22 @@
+# Speech-to-Text
+openai-whisper
+
+# Translation (IndicTrans2)
+transformers
+sentencepiece
+protobuf
+
+# Deep Learning
+torch
+numpy
+
+# Text-to-Speech / Voice Cloning (XTTS v2)
+coqui-tts
+
+# Audio Processing
+librosa
+soundfile
+
+# Face Restoration (optional — requires Python ≤3.12)
+# pip install gfpgan  # uncomment if on Python 3.10-3.12
+opencv-python
